@@ -16,7 +16,8 @@
 				"GitHub.copilot-chat",
 				"GitHub.copilot",
 				"ericadamski.carbon-now-sh",
-				"github.vscode-github-actions"
+				"github.vscode-github-actions",
+				"ms-azuretools.vscode-docker"
 			],
 			"settings": {
 				"rust-analyzer.cargo.autoreload": true
